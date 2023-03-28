@@ -16,7 +16,7 @@ This repository encompasses the project developed for the Multivariate Data Anal
 - Eunice Carrasquinha
 
 
-## Project - Data Analysis of haematological variables
+## Project  -  Data Analysis of haematological variables
 This project focused on the utilization of PCA and CA to perform dimensionality reduction and evaluate the relationships between data instances.
 
 ### Data:
